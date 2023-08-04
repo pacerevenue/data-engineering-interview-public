@@ -1,0 +1,39 @@
+{
+    "rateplans":
+    [
+        {
+            "name": "Weekend Special",
+            "tags":
+            [
+                "flexible",
+                "breakfast-included",
+                "deluxe"
+            ]
+        },
+        {
+            "name": "Superior with Breakfast",
+            "tags":
+            [
+                "breakfast-included",
+                "deluxe"
+            ]
+        },
+        {
+            "name": "Flexible Business",
+            "tags":
+            [
+                "flexible",
+                "weekday-only",
+                "deluxe"
+            ]
+        },
+        {
+            "name": "Budget Traveller",
+            "tags":
+            [
+                "saver",
+                "weekday-only"
+            ]
+        }
+    ]
+}
